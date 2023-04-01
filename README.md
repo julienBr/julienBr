@@ -22,6 +22,6 @@ private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
 
-![Unity](unity.png)
+![Unity](img\unity.png)
 
-<img src="D:\Utilisateurs\Bringard\Documents\Projet Unity\julienBr\img\unity.png" alt="Unity" />
+<img src="img\unity.png" alt="Unity" />
