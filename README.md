@@ -22,6 +22,4 @@ private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
 
-![Unity](img\unity.png)
-
 <img src="img\unity.png" alt="Unity" />
