@@ -22,4 +22,4 @@ private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
 
-<img src="img\unity.png" alt="Unity" />
+<p><img width="800" src="img\unity.png" alt="Unity"/></p>
