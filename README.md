@@ -9,6 +9,7 @@ namespace HelloWorld
     }
 }
 ```
+
 # Hello World ! julienBr, to serve you
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=julienBr)
@@ -17,6 +18,6 @@ namespace HelloWorld
 <img src="#" alt="">
 
 ```c#
-private string _name = "Julien";
+private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
