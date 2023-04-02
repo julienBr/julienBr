@@ -22,7 +22,7 @@ private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
 
-<h1 align="center">Designer/ Developer of Virtual Reality and 3D Real Time Applications</h1>
+<h1>Designer/ Developer of Virtual Reality and 3D Real Time Applications</h1>
 
 ## Who I am 
 
