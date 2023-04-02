@@ -50,6 +50,9 @@ private string _lastName = "Bringard";
 <h3 align="center">Design</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img width="50" src="img\Blender.png" alt="Blender"/>
+<img width="50" src="img\3dsMax.png" alt="3dsMax"/>
+<img width="50" src="img\Substance3dPainter.png" alt="Substance3dPainter"/>
+<img width="50" src="img\Photoshop.png" alt="Photoshop"/>
+<img width="50" src="img\Illustrator.png" alt="Illustrator"/>
 </p>
