@@ -26,11 +26,11 @@ private string _lastName = "Bringard";
 
 <h2>Who I am</h2> 
 
-<p align="justify"><i>
+<p align="justify"><b><i>
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
     Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.<br>
     I love everything about new technology, motorsports and above all MotoGP. 🏎️🏍
-</i></p>
+</i></b></p>
 
 <p><img width="800" src="img\unity.png" alt="Unity"/></p>
 
