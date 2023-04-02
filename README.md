@@ -27,7 +27,7 @@ private string _lastName = "Bringard";
 ## Who I am
 
 <p>
-    Young developer, particularly fond of video games. 🎮
+    Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️
     Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.
     I love everything about new technology, motorsports and above all MotoGP.
 </p>
