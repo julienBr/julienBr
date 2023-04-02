@@ -13,8 +13,8 @@ namespace HelloWorld
 <h1 align="center">Hello World ! julienBr, to serve you</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=julienBr)
-![Files](https://img.shields.io/github/directory-file-count/julienBr/julienBr?style=flat-square)
-![Size](https://img.shields.io/github/repo-size/julienBr/julienBr?style=flat-square)
+![Files](https://img.shields.io/github/directory-file-count/julienBr/julienBr)
+![Size](https://img.shields.io/github/repo-size/julienBr/julienBr)
 <img src="#" alt="">
 
 ```c#
@@ -29,7 +29,7 @@ private string _lastName = "Bringard";
 <p align="justify"><b><i>
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
     Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.<br>
-    I love everything about new technology, motorsports and above all MotoGP. 🏎️🏍
+    I love everything about new technology, motorsports and above all MotoGP. 🏎️🏍🏁
 </i></b></p>
 
 <p><img width="800" src="img\unity.png" alt="Unity"/></p>
