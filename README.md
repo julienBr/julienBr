@@ -38,30 +38,30 @@ Virtual Reality and 3D Real Time Applications</h1>
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img width="50" src="img\CSharp.png" alt="C#"/>
-<img width="50" src="img\C++.png" alt="C++"/>
-<img width="50" src="img\JS.png" alt="JS"/>
-<img width="50" src="img\HTML5.png" alt="HTML5"/>
-<img width="50" src="img\CSS3.png" alt="CSS3"/>
-<img width="50" src="img\PHP.png" alt="PHP"/>
-<img width="50" src="img\MySQL.png" alt="MySQL"/>
-<img width="50" src="img\Java.png" alt="Java"/>
+<img width="40" src="img\CSharp.png" alt="C#"/>
+<img width="40" src="img\C++.png" alt="C++"/>
+<img width="40" src="img\JS.png" alt="JS"/>
+<img width="40" src="img\HTML5.png" alt="HTML5"/>
+<img width="40" src="img\CSS3.png" alt="CSS3"/>
+<img width="40" src="img\PHP.png" alt="PHP"/>
+<img width="40" src="img\MySQL.png" alt="MySQL"/>
+<img width="40" src="img\Java.png" alt="Java"/>
 </p>
 
 <h3 align="center">Design</h3>
 
 <p align="center">
-<img width="50" src="img\Blender.png" alt="Blender"/>
-<img width="50" src="img\3dsMax.png" alt="3dsMax"/>
-<img width="50" src="img\Substance3dPainter.png" alt="Substance3dPainter"/>
-<img width="50" src="img\Photoshop.png" alt="Photoshop"/>
-<img width="50" src="img\Illustrator.png" alt="Illustrator"/>
+<img width="40" src="img\Blender.png" alt="Blender"/>
+<img width="40" src="img\3dsMax.png" alt="3dsMax"/>
+<img width="40" src="img\Substance3dPainter.png" alt="Substance3dPainter"/>
+<img width="40" src="img\Photoshop.png" alt="Photoshop"/>
+<img width="40" src="img\Illustrator.png" alt="Illustrator"/>
 </p>
 
 <h3 align="center">Version Control</h3>
 
 <p align="center">
-<img width="50" src="img\Git.png" alt="Git"/>
-<img width="50" src="img\Github.png" alt="Github"/>
-<img width="50" src="img\Subversion.png" alt="Subversion"/>
+<img width="40" src="img\Git.png" alt="Git"/>
+<img width="40" src="img\Github.png" alt="Github"/>
+<img width="40" src="img\Subversion.png" alt="Subversion"/>
 </p>
