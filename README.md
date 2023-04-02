@@ -24,9 +24,9 @@ private string _lastName = "Bringard";
 
 # Designer/ Developer of Virtual Reality and 3D Real Time Applications
 
-## Who I am
+## Who I am 
 
-<p>
+<p text-align="center">
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️
     Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.
     I love everything about new technology, motorsports and above all MotoGP.
