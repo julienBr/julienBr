@@ -77,7 +77,7 @@ private string _lastName = "Bringard";
 <h2>How to find me 🔎</h2>
 
 <a href="https://www.artstation.com/julienbringard7/profile">
-    <img src="img\ArtStation.png" alt="ArtStation">
+    <img width="40" src="img\ArtStation.png" alt="ArtStation">
 </a>
 
 <p align="center">
