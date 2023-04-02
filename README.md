@@ -68,4 +68,6 @@ Virtual Reality and 3D Real Time Applications</h1>
 
 <h2>How to find me 🔎</h2>
 
+<div align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julienBr)
+</div>
