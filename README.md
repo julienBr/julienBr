@@ -10,7 +10,7 @@ namespace HelloWorld
 }
 ```
 
-<h3 align="center">Hello World ! julienBr, to serve you</h3>
+<h1 align="center">Hello World ! julienBr, to serve you</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=julienBr)
 ![Files](https://img.shields.io/github/directory-file-count/julienBr/julienBr)
@@ -35,7 +35,7 @@ Virtual Reality and 3D Real Time Applications</h1>
 
 <p><img width="800" src="img\unity.png" alt="Unity"/></p>
 
-<h2 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 
 <p align="center">
 <img width="50" src="img\CSharp.png" alt="C#"/>
@@ -48,7 +48,7 @@ Virtual Reality and 3D Real Time Applications</h1>
 <img width="50" src="img\Java.png" alt="Java"/>
 </p>
 
-<h2 align="center">Design</h2>
+<h3 align="center">Design</h3>
 
 <p align="center">
 <img width="50" src="img\Blender.png" alt="Blender"/>
@@ -56,4 +56,12 @@ Virtual Reality and 3D Real Time Applications</h1>
 <img width="50" src="img\Substance3dPainter.png" alt="Substance3dPainter"/>
 <img width="50" src="img\Photoshop.png" alt="Photoshop"/>
 <img width="50" src="img\Illustrator.png" alt="Illustrator"/>
+</p>
+
+<h3 align="center">Version Control</h3>
+
+<p align="center">
+<img width="50" src="img\Git.png" alt="Git"/>
+<img width="50" src="img\Github.png" alt="Github"/>
+<img width="50" src="img\Subversion.png" alt="Subversion"/>
 </p>
