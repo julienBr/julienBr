@@ -76,7 +76,9 @@ private string _lastName = "Bringard";
 
 <h2>How to find me 🔎</h2>
 
-<span style="padding-right: 20px"><a href="https://fr.linkedin.com/in/loic-durand"><img src="img\ArtStation.png" alt="ArtStation"></a></span>
+<a href="https://www.artstation.com/julienbringard7/profile">
+    <img src="img\ArtStation.png" alt="ArtStation">
+</a>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=julienBr"/>
