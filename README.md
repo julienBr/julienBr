@@ -47,7 +47,7 @@ private string _lastName = "Bringard";
 <img width="30" src="img\Java.png" alt="Java"/>
 </p>
 
-<h3 align="center">Design</h3>
+<h3 align="center">Designs</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
