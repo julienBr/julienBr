@@ -38,6 +38,13 @@ private string _lastName = "Bringard";
 
 <p align="center">
 <img width="30" src="img\CSharp.png" alt="C#"/>
+<img width="30" src="img\C++.png" alt="C++"/>
+<img width="30" src="img\JS.png" alt="JS"/>
+<img width="30" src="img\HTML5.png" alt="HTML5"/>
+<img width="30" src="img\CSS3.png" alt="CSS3"/>
+<img width="30" src="img\PHP.png" alt="PHP"/>
+<img width="30" src="img\MySQL.png" alt="MySQL"/>
+<img width="30" src="img\Java.png" alt="Java"/>
 </p>
 
 <h3 align="center">Design</h3>
