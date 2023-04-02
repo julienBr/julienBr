@@ -28,7 +28,7 @@ private string _lastName = "Bringard";
 
 <p text-align="center">
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
-    Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.
+    Nowadays, developing mainly on Unity, I have touched many different languages. Graduate of a DUT in Computer Science, which pushed me towards object-oriented programming rather than procedural.<br>
     I love everything about new technology, motorsports and above all MotoGP.
 </p>
 
