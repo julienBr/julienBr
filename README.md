@@ -10,7 +10,7 @@ namespace HelloWorld
 }
 ```
 
-<h1>Hello World ! julienBr, to serve you</h1>
+<h1 align="center">Hello World ! julienBr, to serve you</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=julienBr)
 ![Files](https://img.shields.io/github/directory-file-count/julienBr/julienBr?style=flat-square)
