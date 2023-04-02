@@ -25,7 +25,7 @@ private string _lastName = "Bringard";
 <h1 align="center">Designer / Developer<br>
 Virtual Reality and 3D Real Time Applications</h1>
 
-<h3><ins>&nbsp;Who I am :&nbsp;</ins></h3> 
+<h2><ins>&nbsp;Who I am :&nbsp;</ins></h2> 
 
 <p align="justify"><b><i>
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
@@ -65,3 +65,5 @@ Virtual Reality and 3D Real Time Applications</h1>
 <img width="40" src="img\Github.png" alt="Github"/>
 <img width="40" src="img\Subversion.png" alt="Subversion"/>
 </p>
+
+<h2>How to find me 🔎</h2>
