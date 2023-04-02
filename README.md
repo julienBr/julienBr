@@ -47,7 +47,7 @@ private string _lastName = "Bringard";
 <img width="50" src="img\Java.png" alt="Java"/>
 </p>
 
-<h3 align="center">Design</h3>
+<h2 align="center">Design</h2>
 
 <p align="center">
 <img width="50" src="img\Blender.png" alt="Blender"/>
