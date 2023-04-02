@@ -25,7 +25,7 @@ private string _lastName = "Bringard";
 <h1 align="center">Designer / Developer<br>
 Virtual Reality and 3D Real Time Applications</h1>
 
-<h2><ins>&nbsp;Who I am :&nbsp;</ins></h2> 
+<h2>Who I am 🪪</h2> 
 
 <p align="justify"><b><i>
     Young developer, particularly fond of video games. 🎮🕹️⌨️🖱️ <br>
