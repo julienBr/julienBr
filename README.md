@@ -37,7 +37,7 @@ private string _lastName = "Bringard";
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img width="50" src="img\CSharp.png" alt="C#"/>
+<img width="30" src="img\CSharp.png" alt="C#"/>
 </p>
 
 <h3 align="center">Design</h3>
