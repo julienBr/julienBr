@@ -22,7 +22,7 @@ private string _firstName = "Julien";
 private string _lastName = "Bringard";
 ```
 
-# Réalisateur/ Développeur d'Applications de Réalité Virtuelle et 3D Temps Réel
+# Designer/ Developer of Virtual Reality and 3D Real Time Applications
 
 ## Who I am
 
